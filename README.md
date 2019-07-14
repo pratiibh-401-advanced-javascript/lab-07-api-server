@@ -1,4 +1,4 @@
-# LAB - 07
+# LAB - 07 - API-Server
 
 ## LAB: Express
 
@@ -13,21 +13,11 @@
 
 ### Modules
 #### `server.js`
-#### `routes.js`
+#### `index.js`
 
 ##### Exported Values and Methods
-#### `consoleLogger.js`
-#### `error.js`
-#### `errorOnNext.js`
-#### `notFound.js`
-#### `requestTime.js`
-#### `squareValue.js`
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `404.js`
+#### `500.js`
 
 ### Setup
 #### `.env` requirements
